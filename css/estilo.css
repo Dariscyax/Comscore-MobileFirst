@@ -1,0 +1,135 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: rgb(212, 189, 146);
+}
+
+.content{
+    height: auto;
+    background-color: rgb(209, 124, 109);
+}
+
+.logi{
+    width: 35px;
+    margin-left: 54px;
+    margin-top: 10px;
+
+}
+.encabezado{
+    background-color: wheat;
+    height: 300px;
+    width: 400px;
+    margin-left: 0 0;
+}
+
+.watches{
+    font-weight: bold;
+    font-size: 20px;
+    margin-left: 116px;
+    direction: "up";
+
+}
+
+
+
+.comscore{
+
+    margin-top: bold;
+    font-size: 15;
+    margin-left: 15px;
+
+} 
+
+
+.core{
+
+    margin-top: bold;
+    margin-left: 15px;
+    font-size: 21px;
+
+} 
+
+
+
+.form{
+    color: rgb(138, 135, 135);
+    margin-right: 15px;
+    font-size: 24px;
+    margin-left:15px ;
+    font-weight: bold;
+
+}
+
+.btn-form{
+    margin-left: 35px;
+    width: 129px;
+    margin-top: 20px;
+    height: 35px;
+    background-color: rgb(71, 182, 247);
+    border: #FFFFFF;
+    border-radius: 7px;
+    color: #FFFFFF;
+}
+
+.btn-more{
+    margin-left: 35px;
+    width: 129px;
+    margin-top: 20px;
+    height: 35px;
+    background-color: rgb(247, 103, 37);
+    border: #FFFFFF;
+    border-radius: 7px;
+    color: #FFFFFF;
+
+}
+
+.caj1{
+    margin-top: 40px;
+    margin-left: 80px;
+
+
+}
+.caj1,h3{
+    color: rgba(49, 47, 47, 0.856);
+    align-self: center;
+}
+
+.caj2,p{
+    color: rgb(82, 80, 80);
+}
+
+.caj2{
+    margin-top: 40px;
+    margin-left: 80px;
+
+}
+
+.caj3{
+    margin-top: 40px;
+    margin-left: 80px;
+
+}
+
+.boton{
+    width: 25px;
+    background-color: cornflowerblue;
+}
+
+.carrito{
+    width: 40px;
+    margin-left: 190px;
+}
+
+.br-formar{
+    margin-left: 0px;
+    width: 180px;
+    height: 32px;
+    background-color:rgb(71, 182, 247);
+    border-radius: 7px;
+    border: #FFFFFF;
+    color: #FFFFFF;
+}
+
